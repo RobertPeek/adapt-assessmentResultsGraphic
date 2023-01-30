@@ -1,0 +1,16 @@
+{
+  "name": "adapt-assessmentResultsGraphic",
+  "version": "1.0.0",
+  "framework": ">=5.19.1",
+  "homepage": "https://github.com/RobertPeek/adapt-assessmentResultsGraphic",
+  "issues": "https://github.com/RobertPeek/adapt-assessmentResultsGraphic/issues",
+  "displayName" : "Results Graphic",
+  "component" : "assessmentResultsGraphic",
+  "description": "Graphic component which displays an image based on a specific assesment score or the complete course score.",
+  "main": "/js/adapt-assessmentResultsGraphic.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}

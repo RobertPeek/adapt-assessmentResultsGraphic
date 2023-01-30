@@ -1,0 +1,45 @@
+    {
+        "_id": "c-30",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "assessmentResultsGraphic",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Assessment Results Graphic",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_isVisibleBeforeCompletion": true,
+        "_assessmentId": "",
+        "_graphic": {
+            "alt": "alt text",
+            "_src": ""
+        },
+        "_bands": [
+          {
+            "_score": 0,
+            "_src": "",
+            "alt": "alt text"
+          },
+          {
+            "_score": 25,
+            "_src": "",
+            "alt": "alt text"
+          },
+          {
+            "_score": 50,
+            "_src": "",
+            "alt": "alt text"
+          },
+          {
+            "_score": 75,
+            "_src": "",
+            "alt": "alt text"
+          },
+          {
+            "_score": 100,
+            "_src": "",
+            "alt": "alt text"
+          }
+        ]
+    }
